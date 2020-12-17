@@ -1,1 +1,1 @@
-# Session6
+# FruitPunch AI Bootcamp Session 6: Convolutional neural network
